@@ -67,6 +67,20 @@ These metrics were chosen to directly support budget and strategy decisions.
 
 ---
 
+## 📊 Key Visual Insights
+
+### Return on Marketing Investment (ROMI) by Source
+![ROMI by Source](images/roi_by_source.png)
+
+> Not all traffic sources generate positive returns, highlighting the importance of evaluating profitability rather than volume alone.
+
+### Customer Acquisition Cost (CAC) by Source
+![CAC by Source](images/cac_by_source.png)
+
+> Significant differences in acquisition costs across sources directly impact overall marketing efficiency.
+
+---
+
 ## ✅ Conclusions & Recommendations
 
 * Reallocate marketing budget toward sources with consistently positive ROI
@@ -91,7 +105,6 @@ data-analysis-marketing-roi/
 ├── images/
 │   ├── roi_by_source.png
 │   ├── cac_by_source.png
-│   └── conversion_by_source.png
 ├── requirements.txt
 └── .gitignore
 ```
