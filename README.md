@@ -88,6 +88,10 @@ data-analysis-marketing-roi/
 │       ├── visits.csv
 │       ├── orders.csv
 │       └── costs.csv
+├── images/
+│   ├── roi_by_source.png
+│   ├── cac_by_source.png
+│   └── conversion_by_source.png
 ├── requirements.txt
 └── .gitignore
 ```
